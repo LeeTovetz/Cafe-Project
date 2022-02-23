@@ -22,7 +22,7 @@ There are many cash registers that take orders from users. <br>
 It takes 1 second to prepare each item in the order. <br>
 For example, it takes the cashier 3 seconds for 2 potatoes and salad. <br>
 <br>
-There are also three tasks. <br>
+**There are also three tasks. <br>
 
 The first runs once a minute and records statistics<br>
 for cash registers in csv file in the format:<br>
