@@ -22,7 +22,7 @@ There are many cash registers that take orders from users. <br>
 It takes 1 second to prepare each item in the order. <br>
 For example, it takes the cashier 3 seconds for 2 potatoes and salad. <br>
 <br>
-**There are also three tasks. <br>
+**There are also three tasks.** <br>
 
 The first runs once a minute and records statistics<br>
 for cash registers in csv file in the format:<br>
@@ -39,7 +39,7 @@ The third task is started every 60 minutes and defines the best cashier<br>
 (implement csv file reading)<br>
 The result is simply displayed on the console. <br>
 <br>
-The task is executed endlessly. <br>
-You can't use 3rd party libraries, only Java Core.<br>
+**The task is executed endlessly. <br>
+You can't use 3rd party libraries, only Java Core.**<br>
 <br>
 
